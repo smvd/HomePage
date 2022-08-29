@@ -28,8 +28,8 @@ with open('content.csv', 'r') as file:
 			index	= index,
 			short	= entry[0][0:2].title(),
 			name	= entry[0],
-			entry 	= '{entry}',	
-		)[:-1])
+			entry 	= '{entry}'
+		)[:-1], styles = '{styles}')
 		
 		index += 1
 
@@ -38,13 +38,8 @@ with open('content.csv', 'r') as file:
 cssTemplate = cssTemplate.replace('$width$', ('auto ' * round(index / 4))[:-1])
 
 # Cleaning the html template
-htmlTemplate = htmlTemplate.format(entry='')
+htmlTemplate = htmlTemplate.format(entry='', styles=cssTemplate)
 
 htmlFile	= open('home.html', 'w')
-cssFile		= open('home.css', 'w')
-
 htmlFile.write(htmlTemplate)
-cssFile.write(cssTemplate)
-
 htmlFile.close()
-cssFile.close()

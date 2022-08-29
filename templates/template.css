@@ -1,69 +1,70 @@
-:root {
-	--fg: 	#E4F5F5;
-	--bg: 	#111516;
-}
 
-* {
-	all: 		none;
-	color: 		var(--fg);
-	text-align: center;
-}
+			:root {
+				--fg: 	#E4F5F5;
+				--bg: 	#111516;
+			}
 
-body {
-	background-color: 	var(--bg);
-}
+			* {
+				all: 		none;
+				color: 		var(--fg);
+				text-align: center;
+			}
 
-.external {
-	display: 	table;
-	position: 	absoulte;
-	top: 		0;
-	left: 		0;
-	height: 	100%;
-	width: 		100%;
-}
+			body {
+				background-color: 	var(--bg);
+			}
 
-.middle {
-	display: 		table-cell;
-	vertical-align: middle;
-}
+			.external {
+				display: 	table;
+				position: 	absoulte;
+				top: 		0;
+				left: 		0;
+				height: 	100%;
+				width: 		100%;
+			}
 
-.content {
-	margin-left: 			auto;
-	margin-right: 			auto;
-	display: 				grid;
-	grid-template-columns: 	$width$;
-	grid-gap:  				15px;
-	justify-content: 		center;
-}
+			.middle {
+				display: 		table-cell;
+				vertical-align: middle;
+			}
 
-.cell {
-	border: 			3px solid var(--fg);
-	padding: 			20px;
-	width: 				110px;
-	transition: 		0.3s;
-	text-decoration: 	none;
-}
+			.content {
+				margin-left: 			auto;
+				margin-right: 			auto;
+				display: 				grid;
+				grid-template-columns: 	$width$;
+				grid-gap:  				15px;
+				justify-content: 		center;
+			}
+
+			.cell {
+				border: 			3px solid var(--fg);
+				padding: 			20px;
+				width: 				110px;
+				transition: 		0.3s;
+				text-decoration: 	none;
+			}
 
 
-.cell:hover {
-	background-color: 	var(--fg);
-}
+			.cell:hover {
+				background-color: 	var(--fg);
+			}
 
-.cell:hover * {
-	color: 	var(--bg);
-}
+			.cell:hover * {
+				color: 	var(--bg);
+			}
 
-h1 {
-	margin: 	0px;
-	font-size: 	20px;
-}
+			h1 {
+				margin: 	0px;
+				font-size: 	20px;
+			}
 
-h2 {
-	margin: 	10px;
-	font-size: 	40px;
-}
+			h2 {
+				margin: 	10px;
+				font-size: 	40px;
+			}
 
-h3 {
-	margin: 	0px;
-	font-size: 	15px;
-}
+			h3 {
+				margin: 	0px;
+				font-size: 	15px;
+			}

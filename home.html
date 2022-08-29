@@ -1,6 +1,78 @@
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="home.css">
+		<style>
+			
+			:root {
+				--fg: 	#E4F5F5;
+				--bg: 	#111516;
+			}
+
+			* {
+				all: 		none;
+				color: 		var(--fg);
+				text-align: center;
+			}
+
+			body {
+				background-color: 	var(--bg);
+			}
+
+			.external {
+				display: 	table;
+				position: 	absoulte;
+				top: 		0;
+				left: 		0;
+				height: 	100%;
+				width: 		100%;
+			}
+
+			.middle {
+				display: 		table-cell;
+				vertical-align: middle;
+			}
+
+			.content {
+				margin-left: 			auto;
+				margin-right: 			auto;
+				display: 				grid;
+				grid-template-columns: 	auto auto auto;
+				grid-gap:  				15px;
+				justify-content: 		center;
+			}
+
+			.cell {
+				border: 			3px solid var(--fg);
+				padding: 			20px;
+				width: 				110px;
+				transition: 		0.3s;
+				text-decoration: 	none;
+			}
+
+
+			.cell:hover {
+				background-color: 	var(--fg);
+			}
+
+			.cell:hover * {
+				color: 	var(--bg);
+			}
+
+			h1 {
+				margin: 	0px;
+				font-size: 	20px;
+			}
+
+			h2 {
+				margin: 	10px;
+				font-size: 	40px;
+			}
+
+			h3 {
+				margin: 	0px;
+				font-size: 	15px;
+			}
+
+		</style>
 		<title>Home</title>
 	</head>
 	<body>
@@ -56,6 +128,16 @@
 						<h1>10</h1>
 						<h2>Fi</h2>
 						<h3>fish</h3>
+					</a>
+					<a class="cell" href="https://sgdelangstraat.sharepoint.com/sites/portaaldoultremontcollege">
+						<h1>11</h1>
+						<h2>Do</h2>
+						<h3>doultremont</h3>
+					</a>
+					<a class="cell" href="https://example.com">
+						<h1>12</h1>
+						<h2>Ex</h2>
+						<h3>exmaple</h3>
 					</a>
 					
 				</div>
