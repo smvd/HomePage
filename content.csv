@@ -1,12 +1,23 @@
-reddit,			www.reddit.com
-discord,		www.discord.com
+zermelo,		example.com
+magister,		example.com
+doultremont,	sgdelangstraat.sharepoint.com/sites/portaaldoultremontcollege
+
 github,			www.github.com
-steam,			store.steampowered.com
-youtube,		www.youtube.com
-teams,			teams.microsoft.com
-gmail,			mail.google.com
+fish,			fishshell.com
+eww,			elkowar.github.io/eww
 archlinux,		wiki.archlinux.org
 hyprland,		wiki.hyprland.org
-fish,			fishshell.com
-doultremont,	sgdelangstraat.sharepoint.com/sites/portaaldoultremontcollege
-exmaple,		example.com
+
+teams,			teams.microsoft.com
+gmail,			mail.google.com
+discord,		www.discord.com
+reddit,			www.reddit.com
+
+steam,			store.steampowered.com
+protondb,		www.protondb.com
+
+youtube,		www.youtube.com
+blank, blank
+whatsapp,		web.whatsapp.com
+disney+,		www.disneyplus.com/en-nl
+netflix,		www.netflix.com/nl-en
