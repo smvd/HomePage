@@ -36,15 +36,21 @@ with open('content.csv', 'r') as file:
             url		= 'https://' + entry[1].lstrip(),
             index	= index,
             short	= entry[0][0:2].title(),
-            name	= entry[0],
+            name	= entry[0].title(),
             entry 	= '{entry}'
             )[:-1], styles = '{styles}')
             index += 1
         count += 1
 
 
-# Inserting the corrent column count into the css template
-cssTemplate = cssTemplate.replace('$width$', ('auto ' * round(count / 4))[:-1])
+# Setting the correct values in the css
+width = round(count / 5)
+formWidth = 152 * width + 19 * (width - 1)
+
+cssTemplate = cssTemplate.replace('$width$', ('auto ' * width)[:-1])
+cssTemplate = cssTemplate.replace('$formWidth$', str(formWidth) + 'px')
+cssTemplate = cssTemplate.replace('$inputWidth$', str(formWidth - 56) + 'px')
+
 
 # Cleaning the html template
 htmlTemplate = htmlTemplate.format(entry='', styles=cssTemplate)

@@ -1,24 +1,29 @@
 zermelo,		example.com
-magister,		example.com
-doultremont,	sgdelangstraat.sharepoint.com/sites/portaaldoultremontcollege
-onedrive,		onedrive.live.com
-
-github,			www.github.com
-fish,			fishshell.com
-eww,			elkowar.github.io/eww
-archlinux,		wiki.archlinux.org
-hyprland,		wiki.hyprland.org
-
 teams,			teams.microsoft.com
-gmail,			mail.google.com
-discord,		www.discord.com
-reddit,			www.reddit.com
-
+github,			www.github.com
+spotify,		www.spotify.com/nl
 steam,			store.steampowered.com
+
+magister,		example.com
+gmail,			mail.google.com
+fish,			fishshell.com
+youtube,		www.youtube.com
 protondb,		www.protondb.com
 
-spotify,		www.spotify.com/nl
-youtube,		www.youtube.com
-whatsapp,		web.whatsapp.com
+doultremont,	sgdelangstraat.sharepoint.com/sites/portaaldoultremontcollege
+discord,		www.discord.com
+hyprland,		wiki.hyprland.org
+eww,			elkowar.github.io/eww
+gog,			www.gog.com
+
+onedrive,		onedrive.live.com
+reddit,			www.reddit.com
+archlinux,		wiki.archlinux.org
 disney+,		www.disneyplus.com/en-nl
+blank,blank
+
+blank,blank
+whatsapp,		web.whatsapp.com
+blank,blank
 netflix,		www.netflix.com/nl-en
+blank,blank

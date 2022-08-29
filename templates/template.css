@@ -74,3 +74,33 @@
 				margin: 	0px;
 				font-size: 	15px;
 			}
+			
+			form {
+				width: 					$formWidth$;
+				border: 				3px solid var(--fg);
+				margin: 				auto;
+				margin-bottom: 			15px;
+				display: 				grid;
+				grid-template-columns: 	auto auto;
+				grid-gap: 				0px;
+				justify-content:		left;
+			}
+
+			input {
+				all: 			unset;
+				margin-left: 	10px;
+				text-align: 	left;
+				font-size: 		22px;
+				width: 			$inputWidth$;
+			}
+
+			button {
+				all: 			unset;
+				margin-left: 	5px;
+				font-size: 		30px;
+				width: 			30px;
+			}
+
+			h4 {
+				font-size:	40px;
+			}
