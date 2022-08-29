@@ -20,7 +20,7 @@ entryTemplateFile.close()
 blankTemplateFile.close()
 
 index = 1
-count = 2
+count = 1
 
 
 # Reading the content from the file on disk & inserting it into the template
