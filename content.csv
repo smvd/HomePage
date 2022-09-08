@@ -1,29 +1,26 @@
-zermelo,		example.com,
-teams,			teams.microsoft.com,            uni
-github,			www.github.com,                 dev
-spotify,		www.spotify.com/nl,
-steam,			store.steampowered.com,         entertainment
-
-magister,		example.com,
-gmail,			mail.google.com,                personal
-fish,			fishshell.com,                  dev
-youtube,		www.youtube.com,                entertainment
-protondb,		www.protondb.com,
-
-doultremont,	sgdelangstraat.sharepoint.com/sites/portaaldoultremontcollege,
-discord,		www.discord.com,                social
-hyprland,		wiki.hyprland.org,
-eww,			elkowar.github.io/eww,          dev
-gog,			www.gog.com,
-
-onedrive,		onedrive.live.com,              personal
-reddit,			www.reddit.com,                 entertainment
-archlinux,		wiki.archlinux.org,             dev
-disney+,		www.disneyplus.com/en-nl,       entertainment
-blank,blank,
-
-blank,blank,
 whatsapp,		web.whatsapp.com,               social
-blank,blank,
+discord,		www.discord.com,                social
+blank,,
+teams,			teams.microsoft.com,            uni
+doultremont,	sgdelangstraat.sharepoint.com/sites/portaaldoultremontcollege, uni
+
+zermelo,		example.com,
+magister,		example.com,
+spotify,		www.spotify.com/nl,
+gmail,			mail.google.com,                personal
+onedrive,		onedrive.live.com,              personal
+
+github,			www.github.com,                 dev
+archlinux,		wiki.archlinux.org,             dev
+protondb,		www.protondb.com,               dev
+fish,			fishshell.com,                  dev
+eww,			elkowar.github.io/eww,          dev
+
+hyprland,		wiki.hyprland.org,              dev
+reddit,			www.reddit.com,                 entertainment
+youtube,		www.youtube.com,                entertainment
 netflix,		www.netflix.com/nl-en,          entertainment
-blank,blank,
+disney+,		www.disneyplus.com/en-nl,       entertainment
+
+steam,			store.steampowered.com,         entertainment
+gog,			www.gog.com,                    entertainment
