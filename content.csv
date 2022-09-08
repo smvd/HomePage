@@ -1,29 +1,29 @@
-zermelo,		example.com
-teams,			teams.microsoft.com
-github,			www.github.com
-spotify,		www.spotify.com/nl
-steam,			store.steampowered.com
+zermelo,		example.com,
+teams,			teams.microsoft.com,            uni
+github,			www.github.com,                 dev
+spotify,		www.spotify.com/nl,
+steam,			store.steampowered.com,         entertainment
 
-magister,		example.com
-gmail,			mail.google.com
-fish,			fishshell.com
-youtube,		www.youtube.com
-protondb,		www.protondb.com
+magister,		example.com,
+gmail,			mail.google.com,                personal
+fish,			fishshell.com,                  dev
+youtube,		www.youtube.com,                entertainment
+protondb,		www.protondb.com,
 
-doultremont,	sgdelangstraat.sharepoint.com/sites/portaaldoultremontcollege
-discord,		www.discord.com
-hyprland,		wiki.hyprland.org
-eww,			elkowar.github.io/eww
-gog,			www.gog.com
+doultremont,	sgdelangstraat.sharepoint.com/sites/portaaldoultremontcollege,
+discord,		www.discord.com,                social
+hyprland,		wiki.hyprland.org,
+eww,			elkowar.github.io/eww,          dev
+gog,			www.gog.com,
 
-onedrive,		onedrive.live.com
-reddit,			www.reddit.com
-archlinux,		wiki.archlinux.org
-disney+,		www.disneyplus.com/en-nl
-blank,blank
+onedrive,		onedrive.live.com,              personal
+reddit,			www.reddit.com,                 entertainment
+archlinux,		wiki.archlinux.org,             dev
+disney+,		www.disneyplus.com/en-nl,       entertainment
+blank,blank,
 
-blank,blank
-whatsapp,		web.whatsapp.com
-blank,blank
-netflix,		www.netflix.com/nl-en
-blank,blank
+blank,blank,
+whatsapp,		web.whatsapp.com,               social
+blank,blank,
+netflix,		www.netflix.com/nl-en,          entertainment
+blank,blank,
