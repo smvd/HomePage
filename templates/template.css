@@ -45,11 +45,11 @@
 				transition: 		0.3s;
 				text-decoration: 	none;
 			}
-
-
 			.cell:hover {
 				background-color: 	var(--fg);
 			}
+
+			$entry$
 
 			.cell:hover * {
 				color: 	var(--bg);

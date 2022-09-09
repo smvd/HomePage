@@ -1,29 +1,26 @@
-zermelo,		example.com
-teams,			teams.microsoft.com
-github,			www.github.com
-spotify,		www.spotify.com/nl
-steam,			store.steampowered.com
+whatsapp,		web.whatsapp.com,               social
+discord,		www.discord.com,                social
+blank,,
+teams,			teams.microsoft.com,            uni
+doultremont,	sgdelangstraat.sharepoint.com/sites/portaaldoultremontcollege, uni
 
-magister,		example.com
-gmail,			mail.google.com
-fish,			fishshell.com
-youtube,		www.youtube.com
-protondb,		www.protondb.com
+zermelo,		example.com,
+magister,		example.com,
+spotify,		www.spotify.com/nl,
+gmail,			mail.google.com,                personal
+onedrive,		onedrive.live.com,              personal
 
-doultremont,	sgdelangstraat.sharepoint.com/sites/portaaldoultremontcollege
-discord,		www.discord.com
-hyprland,		wiki.hyprland.org
-eww,			elkowar.github.io/eww
-gog,			www.gog.com
+github,			www.github.com,                 dev
+archlinux,		wiki.archlinux.org,             dev
+protondb,		www.protondb.com,               dev
+fish,			fishshell.com,                  dev
+eww,			elkowar.github.io/eww,          dev
 
-onedrive,		onedrive.live.com
-reddit,			www.reddit.com
-archlinux,		wiki.archlinux.org
-disney+,		www.disneyplus.com/en-nl
-blank,blank
+hyprland,		wiki.hyprland.org,              dev
+reddit,			www.reddit.com,                 entertainment
+youtube,		www.youtube.com,                entertainment
+netflix,		www.netflix.com/nl-en,          entertainment
+disney+,		www.disneyplus.com/en-nl,       entertainment
 
-blank,blank
-whatsapp,		web.whatsapp.com
-blank,blank
-netflix,		www.netflix.com/nl-en
-blank,blank
+steam,			store.steampowered.com,         entertainment
+gog,			www.gog.com,                    entertainment

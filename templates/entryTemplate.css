@@ -1,0 +1,8 @@
+.cell.$category$ {
+				border: 			3px solid $color$;
+			}
+			.cell.$category$:hover {
+				background-color: 	$color$;
+			}
+
+			$entry$
